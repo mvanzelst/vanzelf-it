@@ -1,0 +1,10 @@
+title: VanZelf IT
+
+email: marijn@vanzelf-it.nl
+github_url: https://github.com/mvanzelst
+linkedin_url: https://www.linkedin.com/in/marijnvanzelst/
+medium_url: https://medium.com/joecool
+twitter_url: https://twitter.com/marijnvanzelst
+
+exclude: screenshots, LICENSE, README.md
+markdown: kramdown
